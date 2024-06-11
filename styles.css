@@ -54,4 +54,6 @@ a:focus {
     color: #333;
     padding: 10px 20px;
     border-radius: 5px;
-    f
+    font-size: 14px;
+    max-width: 200px;
+}
