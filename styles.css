@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('/img/2.jpg'); /* Replace with your background image */
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fanimemotivation.com%2Fwp-content%2Fuploads%2F2023%2F01%2Fvagabond-manga-art.jpg&f=1&nofb=1&ipt=35fdfdefdbf835b72f3872474fabd61440a61f717ab10c854d00128fd1931dc1&ipo=images'); /* Replace with your background image */
     background-size: cover;
     background-position: center;
     height: 100vh;
